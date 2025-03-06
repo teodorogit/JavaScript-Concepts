@@ -1,6 +1,6 @@
 # 📌 Nivelamento de JavaScript
 
-Bem-vindo ao repositório de **Nivelamento de JavaScript**! 🚀 Este repositório contém um plano de estudos estruturado em **4 semanas** para aprimorar seus conhecimentos em JavaScript, desde os conceitos básicos até tópicos mais avançados.
+Bem-vindo ao repositório de **Nivelamento de JavaScript**! 🚀 Este repositório contém um plano de estudos estruturado em **4 semanas** para aprimorar  os meus e os seus conhecimentos em JavaScript, desde os conceitos básicos até tópicos mais avançados.
 
 ## 📅 Plano de Estudos
 
@@ -11,7 +11,13 @@ Bem-vindo ao repositório de **Nivelamento de JavaScript**! 🚀 Este repositór
 - Operadores e Expressões
 - Estruturas Condicionais (`if`, `else`, `switch`)
 - Laços de Repetição (`for`, `while`, `do while`)
-- Funções e Escopo
+- Funções e Escopo e Closure !
+
+3 Exercicios de fixação:
+1-[X] ( estou estudando aqui ) 
+2-[ ]
+3-[ ]
+
 
 ### ⚡ Semana 2: Manipulação de Dados e DOM
 
