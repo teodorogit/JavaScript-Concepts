@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario</title>
+  <style>
+    .form {
+      display: flex;
+      flex-direction: column;
+      margin: 10% auto;
+      width: 80%;
+      gap: 20px;
+      max-width: 600px;
+    }
+    .off {
+      background-color: rgba(196, 81, 81, 0.275);
+    }
+    .invalid_message {
+      position: fixed;
+      top: 10%;
+      color: red;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      filter:brightness(50%) ;
+    }
+  </style>
+  <script src="ex002.js" defer></script>
+</head>
+<body>
+  <div>
+    <form action="" class="form">
+      <label for="name">Nome</label>
+      <input type="text" name="name" id="ipt-name">
+      <div id="message"></div>
+      <label for="email">Email</label>
+      <input type="email" name="email" id="ipt-email">
+      <button type="button" id="btn-send">Enviar</button>
+    </form>
+  </div>
+  
+</body>
+</html>
